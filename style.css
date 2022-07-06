@@ -134,3 +134,26 @@ section{
     background-color: #fff4d6;
 }
 /* donate plan css part end  */
+
+/* about1 css part start  */
+/* about1 css part end  */
+
+/* footer css part start  */
+footer{
+    height: 170px;
+    width: 100%;
+    background-color: #0b0d17;
+}
+.footer-content{
+    text-align: center;
+}
+.footer-content h2{
+    padding-top: 35px;
+    color: #ff5959;
+    font-size: 50px;
+}
+.footer-content p{
+    margin-top: 20px;
+    color: #d9dbe1;
+}
+/* footer css part end  */
