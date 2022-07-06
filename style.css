@@ -185,9 +185,41 @@ section{
 /* search css part start  */
 .boundary{
     height: 150px;
-    width: 70%;
-    
+    width: 80%;
+    background-color: #fff4d6;
+    margin: 0 auto;
+    border-radius: 5px;
 }
+
+.under{
+    text-align: center;
+    justify-content: center;
+    line-height: 150px;
+}
+.email{
+    width: 200px;
+    height: 20px;
+    background: transparent;
+    border: 1px solid #d9d9d9;
+    color: #aa9f9f;
+    border-right: none;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    background: #d9d9d9;
+}
+.sub{
+    width: 90px;
+    height: 42px;
+    padding-right: 5px;
+    background: #ff5959;
+    border: 2px solid #ff5959;
+    color: white;
+    font-size: 13px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
 /* search css part end  */
 
 /* footer css part start  */
