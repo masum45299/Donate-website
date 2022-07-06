@@ -136,7 +136,59 @@ section{
 /* donate plan css part end  */
 
 /* about1 css part start  */
+
+.about-flex{
+    display: flex;
+}
+
+.about1-heading{
+    width: 50%;
+}
+.about1-img{
+    width: 50%;
+}
+.about1-img img{
+    width: 90%;
+    margin-left: 10%;
+    background-attachment: fixed;
+}
+.about1-heading h2{
+    font-size: 35px;
+}
+.about1-heading p{
+    margin-bottom: 25px;
+    color: #707070;
+}
+.about1-heading a{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    background-color: #ff5959;
+}
 /* about1 css part end  */
+
+/* about2 css part start  */
+
+.about2{
+    width: 50%;
+}
+.about2 img{
+    width: 90%;
+}
+. about2-heading{
+    width: 90%;
+    margin-left: 10%;
+}
+/* about2 css part end  */
+
+/* search css part start  */
+.boundary{
+    height: 150px;
+    width: 70%;
+    
+}
+/* search css part end  */
 
 /* footer css part start  */
 footer{
