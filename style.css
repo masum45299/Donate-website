@@ -104,3 +104,33 @@ section{
     font-size: 20px;
 }
 /* donate today css part end  */
+
+/* donate plan css part start  */
+.flex-copy{
+    display: flex;
+}
+.copy1{
+    background-color: #edf5f6;
+    height: 210px;
+    width: 230px;
+    border-radius: 10px;
+    padding: 20px;
+}
+.copy1 img{
+    margin-top: 15px;
+}
+.copy1 h3{
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.copy1 p{
+    color: #707070;
+}
+.copy2{
+    background-color: #ffeeee;
+    margin: 0 30px;
+}
+.copy3{
+    background-color: #fff4d6;
+}
+/* donate plan css part end  */
